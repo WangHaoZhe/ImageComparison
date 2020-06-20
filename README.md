@@ -5,8 +5,8 @@
 
 输入：原图片与更改后的图片
 
-Inputs:image1(original picture）&image2(new picture)
+Inputs:image1(original picture) & image2(new picture)
 
 输出：差异部分与差异值（越大差异越大）
 
-Outputs:difference&contrast rate
+Outputs:difference & contrast rate
